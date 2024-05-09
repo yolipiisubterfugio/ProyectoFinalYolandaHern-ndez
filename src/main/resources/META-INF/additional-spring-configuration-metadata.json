@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "description": "Description for logging.level.org.hibernate.SQL.",
+      "name": "logging.level.org.hibernate.SQL",
+      "type": "java.lang.String"
+    }
+] }
